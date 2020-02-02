@@ -1,4 +1,4 @@
-Bookstore - 99X
+Assessment :
 ==============
 Description:
 reate a book store application using Symfony framework, You should use MySQL DBMS to create a suitable database that is capable of storing the required data for the assignment. you should be able to host the application in your local host environment.
